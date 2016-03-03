@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/poi-examples-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/poi-excelant-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/poi-ooxml-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/poi-ooxml-schemas-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/poi-scratchpad-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/selenium-chrome-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/selenium-java-2.48.2.jar"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="lib" path="D:/FCI STUFF/SW Testing/Assignment 2/Testing Assi #2/jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
